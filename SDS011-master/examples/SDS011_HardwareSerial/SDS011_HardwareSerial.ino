@@ -1,9 +1,3 @@
-// SDS011 dust sensor example
-// -----------------------------
-//
-// By R. Zschiegner (rz@madavi.de).
-// April 2016
-
 #include <SDS011.h>
 
 float p10, p25;
