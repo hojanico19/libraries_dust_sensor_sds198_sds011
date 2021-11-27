@@ -1,9 +1,3 @@
-// SDS011 dust sensor example
-// -----------------------------
-//
-// By R. Zschiegner (rz@madavi.de).
-// April 2016
-
 #ifdef ESP32
 #error ESP32 does not work with SoftSerial, use HardwareSerial example instead
 #endif
